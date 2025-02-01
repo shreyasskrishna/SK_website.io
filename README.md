@@ -10,15 +10,15 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="website_images/home page_og.gif" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="website_images/about_page_og.png" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="website_images/project_page_og.png" width="900">
   
 
 
@@ -41,7 +41,6 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
@@ -71,7 +70,4 @@
 
 - 🔃 Create a new pull request.
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+## Have a nice day :)
