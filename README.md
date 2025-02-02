@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Personal Portfolio 🧿
 > https://shreyasskrishna.github.io/SK_website.io/
 
 :star: Star me on GitHub — it helps!
