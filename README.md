@@ -70,4 +70,4 @@
 
 - 🔃 Create a new pull request.
 
-## Have a nice day :)
+## ok bye🏃‍♂:)
